@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ispl_auto
-=======
 # ISPL Insurance Policy AI
 
 보험약관 기반 Agentic AI 시스템으로, PDF 약관 파일을 업로드하고 자연어 질의를 통해 관련 약관을 검색하고 답변을 제공합니다.
@@ -161,4 +158,3 @@ docker-compose -f docker-compose.prod.yml up -d
 ---
 
 **ISPL Insurance Policy AI** - 보험약관의 미래를 만들어갑니다.
->>>>>>> master
