@@ -1,5 +1,6 @@
 # 환경변수
 .env
+secrets/
 
 # Node.js
 node_modules/
