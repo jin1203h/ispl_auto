@@ -1,0 +1,13 @@
+# 환경변수
+.env
+
+# Node.js
+node_modules/
+
+# Pythone
+__pycache__/
+
+# 빌드
+build/
+dist/
+
